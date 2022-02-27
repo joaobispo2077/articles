@@ -1,6 +1,6 @@
 FROM python:3.9-alpine
 
-WORKDIR /app
+WORKDIR /api
 
 COPY requirements.txt .
 
